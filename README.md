@@ -11,6 +11,10 @@ errors or optimization problems do exist,
 
 logisim software is open-source 
 
+
+
+
+
 ---------------
 what's inside?
 ---------------
