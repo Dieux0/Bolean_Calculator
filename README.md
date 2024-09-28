@@ -18,5 +18,5 @@ logisim software is open-source
 
 
 
-Licence Creative Commons:
+License Creative Commons:
 CC-BY-NC-SA
