@@ -23,7 +23,7 @@ Processor:
 ![Processor](https://github.com/user-attachments/assets/bfc62ffe-6101-41ff-a73c-9bf04f95325a)
 
 
-Encodeur:
+Encoder:
 ![encodeur](https://github.com/user-attachments/assets/3872d7c7-fb97-4e59-8b92-fd6fa1eac9d2)
 
 
